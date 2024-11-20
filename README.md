@@ -58,6 +58,7 @@ Project Organization
 Here are some insights from the data :
 
 Georgia seems to have the highest number of fatal accidents. It needs to have stricter motor laws
+
 ![state-sev](https://github.com/user-attachments/assets/90884ffa-a307-4e03-8186-e2710080fc29
 
 Zip code - 28262 has most number of accidents. It is located in North Carolina. Needs more investigation 
