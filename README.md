@@ -1,4 +1,4 @@
-us-accident-prediction
+US-accident-prediction
 ==============================
 
 This project uses The US-Accidents dataset can be used for numerous applications, such as real-time car accident prediction, studying car accident hotspot locations, casualty analysis, extracting cause and effect rules to predict car accidents, and studying the impact of precipitation or other environmental stimuli on accident occurrence.
@@ -54,4 +54,15 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+**Exploratory Data Analysis**
+Here are some insights from the data :
+
+Georgia seems to have the highest number of fatal accidents. It needs to have stricter motor laws
+
+![state-sev](https://github.com/user-attachments/assets/c47c3fcb-f7d6-4eee-9ae0-c4c341006ba0)
+
+Zip code - 28262 has most number of accidents. It is located in North Carolina. Needs more investigation 
+![zip-sev](https://github.com/user-attachments/assets/7d397278-c44b-4bca-ae89-68354f444818)
+
+
+
